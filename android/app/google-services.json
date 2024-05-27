@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147585814486",
+    "project_id": "on-bord-and-auth",
+    "storage_bucket": "on-bord-and-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147585814486:android:eed5eca0a126ed4439de77",
+        "android_client_info": {
+          "package_name": "com.example.on_bording_and_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtWGPPCm-Tdssul54g_PEYziTi8CqDpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
